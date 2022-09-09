@@ -1,0 +1,208 @@
+
+
+******************************************
+buy online...
+sell waiting
+>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = 1.000000
+  amount = 22
+sell send quote
+Buy side got :
+  bid = 94.701000
+  ask = 94.881700
+Buyside price:
+  94.979757
+Buyside realise ASK!
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+>>>>>>>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = -1.000000
+  amount = 19
+sell send quote
+Buy side got :
+  bid = 94.720500
+  ask = -1.000000
+Buyside price:
+  94.650761
+Buyside realise BID!
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+>>>>>>>>>>>>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = -1.000000
+  amount = 16
+sell send quote
+Buy side got :
+  bid = 94.717900
+  ask = -1.000000
+Buyside price:
+  94.960781
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+>>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = 1.000000
+  amount = 23
+sell send quote
+Buy side got :
+  bid = 94.724300
+  ask = 94.956600
+Buyside price:
+  94.668595
+Buyside realise BID!
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+>>>>>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = 1.000000
+  amount = 20
+sell send quote
+Buy side got :
+  bid = 94.730800
+  ask = 94.955800
+Buyside price:
+  94.980739
+Buyside realise ASK!
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+>>>>>>>>>>>>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = 1.000000
+  amount = 23
+sell send quote
+Buy side got :
+  bid = 94.702300
+  ask = 94.890100
+Buyside price:
+  94.842717
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+>>>>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = -1.000000
+  amount = 29
+sell send quote
+Buy side got :
+  bid = 94.697200
+  ask = -1.000000
+Buyside price:
+  94.957378
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = -1.000000
+  amount = 18
+sell send quote
+Buy side got :
+  bid = 94.693500
+  ask = -1.000000
+Buyside price:
+  94.983855
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+>>>>>
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = 1.000000
+  amount = 16
+sell send quote
+Buy side got :
+  bid = 94.731200
+  ask = 94.857900
+Buyside price:
+  94.888204
+Buyside realise ASK!
+Trade END ...
+**********************
+
+
+******************************************
+buy online...
+sell waiting
+
+
+buyside send rfq
+sell got :
+  bid = 1.000000
+  ask = -1.000000
+  amount = 22
+sell send quote
+Buy side got :
+  bid = 94.737400
+  ask = -1.000000
+Buyside price:
+  94.835773
+Trade END ...
+**********************
+sell waiting
+Sell receive note: Buy quit...
+GAME OVER...
